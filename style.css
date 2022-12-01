@@ -1,0 +1,22 @@
+.post{
+    display: block;
+    /* float: left; */
+    width: 32%;
+    height: 100px;
+    background-color: lightgray;
+   
+    border-radius: 7px;
+    padding: 7px;
+    margin: 5px;
+}
+.comment{
+    display: block;
+    /* float: left; */
+    width: 32%;
+    height: 100px;
+    background-color: rgb(255, 204, 204);
+    
+    border-radius: 7px;
+    padding: 7px;
+    margin: 5px;
+}
