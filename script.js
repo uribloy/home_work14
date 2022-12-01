@@ -6,7 +6,7 @@ let posts = [
     {'postid' : '2',
     'posttitle' : 'I am the second post 2',
     'bodypost' : 'hi, adayn ein li mushag ;)'},
-    {'postid' : '1',
+    {'postid' : '3',
     'posttitle' : 'Oh I am the last post 3',
     'bodypost' : 'lo nora cvar syamti im apostim ;)'}
 ]
